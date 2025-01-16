@@ -1,0 +1,1904 @@
+[
+    {
+        "label": "周德陽",
+        "filename": "台中總院",
+        "article": "院長",
+        "_id": 0
+    },
+    {
+        "label": "周德陽",
+        "filename": "產學部",
+        "article": "部主任",
+        "_id": 1
+    },
+    {
+        "label": "周德陽",
+        "filename": "醫研部外泌體及多維生醫轉譯開發中心",
+        "article": "科(室)主任",
+        "_id": 2
+    },
+    {
+        "label": "張坤正",
+        "filename": "院長室",
+        "article": "內科系副院長",
+        "_id": 3
+    },
+    {
+        "label": "張坤正",
+        "filename": "內科部",
+        "article": "部主任",
+        "_id": 4
+    },
+    {
+        "label": "張坤正",
+        "filename": "受試者保護中心",
+        "article": "主任",
+        "_id": 5
+    },
+    {
+        "label": "張坤正",
+        "filename": "內科部心臟血管系",
+        "article": "系主任",
+        "_id": 6
+    },
+    {
+        "label": "方信元",
+        "filename": "院長室",
+        "article": "外科系副院長",
+        "_id": 7
+    },
+    {
+        "label": "方信元",
+        "filename": "教學部OSCE中心",
+        "article": "科(室)主任",
+        "_id": 8
+    },
+    {
+        "label": "高尚德",
+        "filename": "院長室",
+        "article": "中醫副院長",
+        "_id": 9
+    },
+    {
+        "label": "邱德發",
+        "filename": "院長室",
+        "article": "代理教學副院長",
+        "_id": 10
+    },
+    {
+        "label": "邱德發",
+        "filename": "教學部",
+        "article": "主任",
+        "_id": 11
+    },
+    {
+        "label": "楊麗慧",
+        "filename": "院長室",
+        "article": "行政副院長",
+        "_id": 12
+    },
+    {
+        "label": "陳韋成",
+        "filename": "院長室",
+        "article": "主任祕書",
+        "_id": 13
+    },
+    {
+        "label": "黃致錕",
+        "filename": "國際醫療中心",
+        "article": "國際醫療中心院長",
+        "_id": 14
+    },
+    {
+        "label": "黃致錕",
+        "filename": "國際代謝形體醫學中心",
+        "article": "國際代謝形體醫學中心院長",
+        "_id": 15
+    },
+    {
+        "label": "黃致錕",
+        "filename": "外科部減重代謝外科",
+        "article": "科(室)主任",
+        "_id": 16
+    },
+    {
+        "label": "黃軒",
+        "filename": "國際醫療中心臨床醫療組",
+        "article": "代理副主任",
+        "_id": 17
+    },
+    {
+        "label": "周艾齊",
+        "filename": "國際醫療中心行銷服務組",
+        "article": "執行長",
+        "_id": 18
+    },
+    {
+        "label": "徐武輝",
+        "filename": "重症醫學中心",
+        "article": "副院長",
+        "_id": 19
+    },
+    {
+        "label": "陳得源",
+        "filename": "風濕免疫中心",
+        "article": "副院長",
+        "_id": 20
+    },
+    {
+        "label": "陳得源",
+        "filename": "內科部風濕免疫科",
+        "article": "科(室)主任",
+        "_id": 21
+    },
+    {
+        "label": "賴彬卿",
+        "filename": "腎臟醫學中心",
+        "article": "副院長",
+        "_id": 22
+    },
+    {
+        "label": "賴彬卿",
+        "filename": "內科部腎臟系",
+        "article": "系主任",
+        "_id": 23
+    },
+    {
+        "label": "顏玉樹",
+        "filename": "神經醫學中心",
+        "article": "副院長",
+        "_id": 24
+    },
+    {
+        "label": "邱昌芳",
+        "filename": "癌症中心",
+        "article": "癌症中心院長",
+        "_id": 25
+    },
+    {
+        "label": "涂智彥",
+        "filename": "癌症中心癌症內科",
+        "article": "科(室)主任",
+        "_id": 26
+    },
+    {
+        "label": "涂智彥",
+        "filename": "內科部胸腔暨重症系",
+        "article": "系主任",
+        "_id": 27
+    },
+    {
+        "label": "涂智彥",
+        "filename": "內科部胸腔暨重症系胸腔科",
+        "article": "科(室)主任",
+        "_id": 28
+    },
+    {
+        "label": "陳光超",
+        "filename": "全方位聽覺健康中心",
+        "article": "副院長",
+        "_id": 29
+    },
+    {
+        "label": "蔡宜佑",
+        "filename": "眼科醫學中心",
+        "article": "副院長",
+        "_id": 30
+    },
+    {
+        "label": "蔡宜佑",
+        "filename": "眼科醫學中心眼科部",
+        "article": "部主任",
+        "_id": 31
+    },
+    {
+        "label": "陳珊霓",
+        "filename": "眼科醫學中心眼底病變尖端治療中心",
+        "article": "主任",
+        "_id": 32
+    },
+    {
+        "label": "陳文祿",
+        "filename": "眼科醫學中心眼科部視網膜科",
+        "article": "科(室)主任",
+        "_id": 33
+    },
+    {
+        "label": "林純如",
+        "filename": "眼科醫學中心眼科部葡萄膜炎科",
+        "article": "科(室)主任",
+        "_id": 34
+    },
+    {
+        "label": "林慧茹",
+        "filename": "眼科醫學中心眼科部兒童眼科",
+        "article": "科(室)主任",
+        "_id": 35
+    },
+    {
+        "label": "江鈞綺",
+        "filename": "眼科醫學中心眼科部角膜科",
+        "article": "科(室)主任",
+        "_id": 36
+    },
+    {
+        "label": "胡佩欣",
+        "filename": "眼科醫學中心眼科部眼整形暨眼窩腫瘤科",
+        "article": "科(室)主任",
+        "_id": 37
+    },
+    {
+        "label": "林正明",
+        "filename": "眼科醫學中心視光室",
+        "article": "科(室)主任",
+        "_id": 38
+    },
+    {
+        "label": "何慧君",
+        "filename": "眼科醫學中心醫學研究室",
+        "article": "科(室)主任",
+        "_id": 39
+    },
+    {
+        "label": "許弘昌",
+        "filename": "人工關節中心",
+        "article": "副院長",
+        "_id": 40
+    },
+    {
+        "label": "黃高彬",
+        "filename": "感染管制中心",
+        "article": "副院長",
+        "_id": 41
+    },
+    {
+        "label": "黃高彬",
+        "filename": "兒童醫院兒童感染科",
+        "article": "科(室)主任",
+        "_id": 42
+    },
+    {
+        "label": "鄭隆賓",
+        "filename": "器官移植中心",
+        "article": "榮譽院長",
+        "_id": 43
+    },
+    {
+        "label": "鄭隆賓",
+        "filename": "細胞治療中心",
+        "article": "榮譽主任",
+        "_id": 44
+    },
+    {
+        "label": "薛博仁",
+        "filename": "檢驗醫學中心",
+        "article": "檢驗醫學中心院長",
+        "_id": 45
+    },
+    {
+        "label": "薛博仁",
+        "filename": "檢驗醫學部",
+        "article": "部主任",
+        "_id": 46
+    },
+    {
+        "label": "王紹椿",
+        "filename": "分子醫學中心",
+        "article": "副主任",
+        "_id": 47
+    },
+    {
+        "label": "周楠華",
+        "filename": "精準醫學中心",
+        "article": "副院長",
+        "_id": 48
+    },
+    {
+        "label": "趙坤山",
+        "filename": "質子治療中心",
+        "article": "質子治療中心院長",
+        "_id": 49
+    },
+    {
+        "label": "馮文生",
+        "filename": "數位轉型科技辦公室",
+        "article": "主任",
+        "_id": 50
+    },
+    {
+        "label": "郭錦輯",
+        "filename": "大數據中心",
+        "article": "副院長",
+        "_id": 51
+    },
+    {
+        "label": "郭錦輯",
+        "filename": "醫學研究部",
+        "article": "副主任",
+        "_id": 52
+    },
+    {
+        "label": "王韋竣",
+        "filename": "人工智慧中心",
+        "article": "副主任",
+        "_id": 53
+    },
+    {
+        "label": "賴威達",
+        "filename": "轉譯醫學研究中心",
+        "article": "副主任",
+        "_id": 54
+    },
+    {
+        "label": "蔡輔仁",
+        "filename": "醫學研究部",
+        "article": "部主任",
+        "_id": 55
+    },
+    {
+        "label": "蔡輔仁",
+        "filename": "基因醫學部",
+        "article": "部主任",
+        "_id": 56
+    },
+    {
+        "label": "蔡輔仁",
+        "filename": "醫研部遺傳中心",
+        "article": "主任",
+        "_id": 57
+    },
+    {
+        "label": "洪士杰",
+        "filename": "醫研部整合幹細胞中心",
+        "article": "主任",
+        "_id": 58
+    },
+    {
+        "label": "姚任之",
+        "filename": "醫研部神經網際計算研究中心",
+        "article": "主任",
+        "_id": 59
+    },
+    {
+        "label": "李建緯",
+        "filename": "醫研部基因體及再生醫學轉譯研究中心",
+        "article": "副主任",
+        "_id": 60
+    },
+    {
+        "label": "陳永祥",
+        "filename": "醫研部衛生福利資料科學中心中醫大分中心",
+        "article": "主任",
+        "_id": 61
+    },
+    {
+        "label": "陳怡文",
+        "filename": "醫研部外泌體及多維生醫轉譯開發中心",
+        "article": "副主任",
+        "_id": 62
+    },
+    {
+        "label": "蘇冠賓",
+        "filename": "醫研部神經精神中心身心介面研究室",
+        "article": "科(室)主任",
+        "_id": 63
+    },
+    {
+        "label": "黃升騰",
+        "filename": "中醫部",
+        "article": "部主任",
+        "_id": 64
+    },
+    {
+        "label": "黃升騰",
+        "filename": "中醫部中醫內科",
+        "article": "科(室)主任",
+        "_id": 65
+    },
+    {
+        "label": "蘇珊玉",
+        "filename": "中醫部中醫婦科",
+        "article": "科(室)主任",
+        "_id": 66
+    },
+    {
+        "label": "黃敬軒",
+        "filename": "中醫部中醫傷科",
+        "article": "科(室)主任",
+        "_id": 67
+    },
+    {
+        "label": "李育臣",
+        "filename": "中醫部中醫針灸科",
+        "article": "科(室)主任",
+        "_id": 68
+    },
+    {
+        "label": "黃國欽",
+        "filename": "中醫部中醫診斷科",
+        "article": "科(室)主任",
+        "_id": 69
+    },
+    {
+        "label": "黃國欽",
+        "filename": "中醫部中醫家庭暨社區醫學科",
+        "article": "科(室)主任",
+        "_id": 70
+    },
+    {
+        "label": "賴琬郁",
+        "filename": "中醫部中醫兒科",
+        "article": "科(室)主任",
+        "_id": 71
+    },
+    {
+        "label": "顏宏融",
+        "filename": "中醫部中西醫結合科",
+        "article": "科(室)主任",
+        "_id": 72
+    },
+    {
+        "label": "夏德椿",
+        "filename": "內科部",
+        "article": "副主任",
+        "_id": 73
+    },
+    {
+        "label": "夏德椿",
+        "filename": "重症醫學中心",
+        "article": "主任",
+        "_id": 74
+    },
+    {
+        "label": "葉士芃",
+        "filename": "內科部",
+        "article": "副主任",
+        "_id": 75
+    },
+    {
+        "label": "葉士芃",
+        "filename": "醫研部人體生物資料庫",
+        "article": "科(室)主任",
+        "_id": 76
+    },
+    {
+        "label": "葉士芃",
+        "filename": "醫研部血幹細胞研究室暨組織庫",
+        "article": "科(室)主任",
+        "_id": 77
+    },
+    {
+        "label": "梁信杰",
+        "filename": "內科部",
+        "article": "臨床訓練科主任",
+        "_id": 78
+    },
+    {
+        "label": "白培英",
+        "filename": "內科部一般內科",
+        "article": "科(室)主任",
+        "_id": 79
+    },
+    {
+        "label": "白培英",
+        "filename": "教學部",
+        "article": "副主任",
+        "_id": 80
+    },
+    {
+        "label": "王子源",
+        "filename": "內科部內分泌暨新陳代謝系內分泌科",
+        "article": "科(室)主任",
+        "_id": 81
+    },
+    {
+        "label": "陳清助",
+        "filename": "內科部內分泌暨新陳代謝系",
+        "article": "系主任",
+        "_id": 82
+    },
+    {
+        "label": "陳榮興",
+        "filename": "內科部內分泌暨新陳代謝系新陳代謝科",
+        "article": "科(室)主任",
+        "_id": 83
+    },
+    {
+        "label": "羅秉漢",
+        "filename": "內科部心臟血管系",
+        "article": "副主任",
+        "_id": 84
+    },
+    {
+        "label": "盧炯睿",
+        "filename": "內科部心臟血管系心導管室",
+        "article": "副主任",
+        "_id": 85
+    },
+    {
+        "label": "梁馨月",
+        "filename": "內科部心臟血管系心臟影像科",
+        "article": "科(室)主任",
+        "_id": 86
+    },
+    {
+        "label": "徐中和",
+        "filename": "內科部心臟血管系周邊血管科",
+        "article": "科(室)主任",
+        "_id": 87
+    },
+    {
+        "label": "張詩聖",
+        "filename": "內科部心臟血管系心臟介入治療科",
+        "article": "科(室)主任",
+        "_id": 88
+    },
+    {
+        "label": "張詩聖",
+        "filename": "人工智慧中心",
+        "article": "主任",
+        "_id": 89
+    },
+    {
+        "label": "白禮源",
+        "filename": "內科部血液腫瘤科",
+        "article": "科(室)主任",
+        "_id": 90
+    },
+    {
+        "label": "白禮源",
+        "filename": "臨床試驗中心(CTC)",
+        "article": "副主任",
+        "_id": 91
+    },
+    {
+        "label": "吳秉儒",
+        "filename": "內科部胸腔暨重症系胸腔科",
+        "article": "科(室)主任",
+        "_id": 92
+    },
+    {
+        "label": "朱家成",
+        "filename": "內科部胸腔暨重症系呼吸治療科",
+        "article": "技術主任",
+        "_id": 93
+    },
+    {
+        "label": "彭成元",
+        "filename": "內科部消化系",
+        "article": "系主任",
+        "_id": 94
+    },
+    {
+        "label": "黃文信",
+        "filename": "內科部消化系",
+        "article": "副主任",
+        "_id": 95
+    },
+    {
+        "label": "丁俊夫",
+        "filename": "內科部消化系內視鏡腫瘤手術科",
+        "article": "科(室)主任",
+        "_id": 96
+    },
+    {
+        "label": "賴學洲",
+        "filename": "內科部消化系肝膽科",
+        "article": "科(室)主任",
+        "_id": 97
+    },
+    {
+        "label": "周仁偉",
+        "filename": "內科部消化系胃腸科",
+        "article": "科(室)主任",
+        "_id": 98
+    },
+    {
+        "label": "郭慧亮",
+        "filename": "內科部腎臟系血液透析科",
+        "article": "科(室)主任",
+        "_id": 99
+    },
+    {
+        "label": "郭慧亮",
+        "filename": "臨床營養科",
+        "article": "科(室)主任",
+        "_id": 100
+    },
+    {
+        "label": "王怡寬",
+        "filename": "內科部腎臟系居家透析科",
+        "article": "科(室)主任",
+        "_id": 101
+    },
+    {
+        "label": "葉宏傑",
+        "filename": "內科部腎臟系急重症腎臟科",
+        "article": "科(室)主任",
+        "_id": 102
+    },
+    {
+        "label": "陳怡儒",
+        "filename": "內科部腎臟系腎臟移植科",
+        "article": "科(室)主任",
+        "_id": 103
+    },
+    {
+        "label": "何茂旺",
+        "filename": "內科部感染科",
+        "article": "科(室)主任",
+        "_id": 104
+    },
+    {
+        "label": "王國陽",
+        "filename": "肺動脈高壓及肺血管疾病中心",
+        "article": "科(室)主任",
+        "_id": 105
+    },
+    {
+        "label": "杭良文",
+        "filename": "內科部胸腔暨重症系睡眠醫學中心",
+        "article": "主任",
+        "_id": 106
+    },
+    {
+        "label": "廖偉志",
+        "filename": "內科部胸腔暨重症系高壓氧治療中心",
+        "article": "科(室)主任",
+        "_id": 107
+    },
+    {
+        "label": "廖俊惠",
+        "filename": "精神醫學部",
+        "article": "部主任",
+        "_id": 108
+    },
+    {
+        "label": "廖俊惠",
+        "filename": "精神醫學部老年精神科",
+        "article": "科(室)主任",
+        "_id": 109
+    },
+    {
+        "label": "藍先元",
+        "filename": "醫研部成癮暨精神健康研究中心",
+        "article": "主任",
+        "_id": 110
+    },
+    {
+        "label": "藍先元",
+        "filename": "精神醫學部成癮防治精神科酒藥癮防治中心",
+        "article": "科(室)主任",
+        "_id": 111
+    },
+    {
+        "label": "吳博倫",
+        "filename": "精神醫學部一般精神科",
+        "article": "科(室)主任",
+        "_id": 112
+    },
+    {
+        "label": "張倍禎",
+        "filename": "精神醫學部兒童精神科",
+        "article": "科(室)主任",
+        "_id": 113
+    },
+    {
+        "label": "廖尹鐸",
+        "filename": "精神醫學部社區精神科",
+        "article": "科(室)主任",
+        "_id": 114
+    },
+    {
+        "label": "蔡崇豪",
+        "filename": "神經部",
+        "article": "部主任",
+        "_id": 115
+    },
+    {
+        "label": "蔡崇豪",
+        "filename": "神經部神經醫學實驗室",
+        "article": "科(室)主任",
+        "_id": 116
+    },
+    {
+        "label": "郭育呈",
+        "filename": "神經部神經免疫暨基因疾病科",
+        "article": "科(室)主任",
+        "_id": 117
+    },
+    {
+        "label": "林剛旭",
+        "filename": "神經部腦中風暨神經重症科",
+        "article": "科(室)主任",
+        "_id": 118
+    },
+    {
+        "label": "呂明桂",
+        "filename": "神經部巴金森暨動作障礙科",
+        "article": "科(室)主任",
+        "_id": 119
+    },
+    {
+        "label": "許怡婷",
+        "filename": "神經部癲癇科",
+        "article": "科(室)主任",
+        "_id": 120
+    },
+    {
+        "label": "楊玉婉",
+        "filename": "神經部失智暨一般神經科",
+        "article": "科(室)主任",
+        "_id": 121
+    },
+    {
+        "label": "曾鈞宏",
+        "filename": "神經部神經檢查室",
+        "article": "代理主任",
+        "_id": 122
+    },
+    {
+        "label": "柯道維",
+        "filename": "外科部",
+        "article": "部主任",
+        "_id": 123
+    },
+    {
+        "label": "柯道維",
+        "filename": "癌症中心癌症外科",
+        "article": "科(室)主任",
+        "_id": 124
+    },
+    {
+        "label": "李秉純",
+        "filename": "外科部",
+        "article": "副主任",
+        "_id": 125
+    },
+    {
+        "label": "楊宏仁",
+        "filename": "外科部",
+        "article": "副主任",
+        "_id": 126
+    },
+    {
+        "label": "楊宏仁",
+        "filename": "外科部一般外科",
+        "article": "科(室)主任",
+        "_id": 127
+    },
+    {
+        "label": "陳德鴻",
+        "filename": "外科部",
+        "article": "臨床訓練科主任",
+        "_id": 128
+    },
+    {
+        "label": "林有騫",
+        "filename": "外科部心臟血管外科",
+        "article": "科(室)主任",
+        "_id": 129
+    },
+    {
+        "label": "劉良智",
+        "filename": "外科部乳房外科",
+        "article": "科(室)主任",
+        "_id": 130
+    },
+    {
+        "label": "陳信翰",
+        "filename": "外科部整形外科美容中心",
+        "article": "科(室)主任",
+        "_id": 131
+    },
+    {
+        "label": "張長正",
+        "filename": "外科部整形外科美容中心雷射美容科",
+        "article": "科(室)主任",
+        "_id": 132
+    },
+    {
+        "label": "張伸吉",
+        "filename": "外科部腹膜腫瘤溫熱治療中心",
+        "article": "主任",
+        "_id": 133
+    },
+    {
+        "label": "張伸吉",
+        "filename": "外科部大腸直腸肛門外科",
+        "article": "代理科(室)主任",
+        "_id": 134
+    },
+    {
+        "label": "張伸吉",
+        "filename": "手術室",
+        "article": "副主任",
+        "_id": 135
+    },
+    {
+        "label": "張伸吉",
+        "filename": "細胞治療中心",
+        "article": "副主任",
+        "_id": 136
+    },
+    {
+        "label": "林昱森",
+        "filename": "外科部胸腔外科",
+        "article": "科(室)主任",
+        "_id": 137
+    },
+    {
+        "label": "陳賢德",
+        "filename": "骨科部",
+        "article": "部主任",
+        "_id": 138
+    },
+    {
+        "label": "陳賢德",
+        "filename": "脊椎中心",
+        "article": "主任",
+        "_id": 139
+    },
+    {
+        "label": "許晉榮",
+        "filename": "骨科部運動醫學科",
+        "article": "科(室)主任",
+        "_id": 140
+    },
+    {
+        "label": "蔡俊灝",
+        "filename": "骨科部骨外傷科",
+        "article": "科(室)主任",
+        "_id": 141
+    },
+    {
+        "label": "馮逸卿",
+        "filename": "骨科部骨腫瘤暨關節重建科",
+        "article": "科(室)主任",
+        "_id": 142
+    },
+    {
+        "label": "郭建忠",
+        "filename": "骨科部兒童骨科",
+        "article": "科(室)主任",
+        "_id": 143
+    },
+    {
+        "label": "洪誌鴻",
+        "filename": "骨科部人工關節科",
+        "article": "科(室)主任",
+        "_id": 144
+    },
+    {
+        "label": "邱詠証",
+        "filename": "骨科部手外科暨顯微肢體重建科",
+        "article": "科(室)主任",
+        "_id": 145
+    },
+    {
+        "label": "黃志平",
+        "filename": "泌尿部",
+        "article": "部主任",
+        "_id": 146
+    },
+    {
+        "label": "黃志平",
+        "filename": "泌尿部微創科",
+        "article": "科(室)主任",
+        "_id": 147
+    },
+    {
+        "label": "鄒頡龍",
+        "filename": "泌尿部婦女泌尿科",
+        "article": "科(室)主任",
+        "_id": 148
+    },
+    {
+        "label": "陳汶吉",
+        "filename": "泌尿部一般泌尿科",
+        "article": "科(室)主任",
+        "_id": 149
+    },
+    {
+        "label": "吳錫金",
+        "filename": "泌尿部泌尿腫瘤科",
+        "article": "科(室)主任",
+        "_id": 150
+    },
+    {
+        "label": "陳春忠",
+        "filename": "神經外科部",
+        "article": "部主任",
+        "_id": 151
+    },
+    {
+        "label": "陳春忠",
+        "filename": "神經外科部腦血管神經外科",
+        "article": "科(室)主任",
+        "_id": 152
+    },
+    {
+        "label": "邱正",
+        "filename": "神經外科部微創脊椎神經外科",
+        "article": "科(室)主任",
+        "_id": 153
+    },
+    {
+        "label": "邱正",
+        "filename": "脊椎中心",
+        "article": "副主任",
+        "_id": 154
+    },
+    {
+        "label": "林宏霖",
+        "filename": "神經外科部伽瑪刀中心",
+        "article": "科(室)主任",
+        "_id": 155
+    },
+    {
+        "label": "陳德誠",
+        "filename": "神經外科部神經脊椎外科",
+        "article": "科(室)主任",
+        "_id": 156
+    },
+    {
+        "label": "鄭宇凱",
+        "filename": "神經外科部兒童神經外科",
+        "article": "科(室)主任",
+        "_id": 157
+    },
+    {
+        "label": "鄭宇凱",
+        "filename": "手術室",
+        "article": "主任",
+        "_id": 158
+    },
+    {
+        "label": "林武周",
+        "filename": "婦產部",
+        "article": "部主任",
+        "_id": 159
+    },
+    {
+        "label": "張穎宜",
+        "filename": "婦產部",
+        "article": "副部主任",
+        "_id": 160
+    },
+    {
+        "label": "張穎宜",
+        "filename": "婦產部微創內視鏡科",
+        "article": "科(室)主任",
+        "_id": 161
+    },
+    {
+        "label": "張正昌",
+        "filename": "婦產部",
+        "article": "臨床訓練科主任",
+        "_id": 162
+    },
+    {
+        "label": "葉聯舜",
+        "filename": "門診部",
+        "article": "部主任",
+        "_id": 163
+    },
+    {
+        "label": "葉聯舜",
+        "filename": "婦產部婦科",
+        "article": "科(室)主任",
+        "_id": 164
+    },
+    {
+        "label": "何銘",
+        "filename": "婦產部產科",
+        "article": "科(室)主任",
+        "_id": 165
+    },
+    {
+        "label": "張訓銘",
+        "filename": "婦產部生殖醫學中心",
+        "article": "科(室)主任",
+        "_id": 166
+    },
+    {
+        "label": "張維君",
+        "filename": "婦產部婦癌科",
+        "article": "科(室)主任",
+        "_id": 167
+    },
+    {
+        "label": "陳慧毅",
+        "filename": "婦產部婦女泌尿暨骨盆醫學科",
+        "article": "科(室)主任",
+        "_id": 168
+    },
+    {
+        "label": "林嘉德",
+        "filename": "耳鼻喉部",
+        "article": "部主任",
+        "_id": 169
+    },
+    {
+        "label": "林嘉德",
+        "filename": "耳鼻喉部耳科",
+        "article": "科(室)主任",
+        "_id": 170
+    },
+    {
+        "label": "王清源",
+        "filename": "耳鼻喉部聽語室",
+        "article": "科(室)主任",
+        "_id": 171
+    },
+    {
+        "label": "戴志展",
+        "filename": "耳鼻喉部鼻科",
+        "article": "科(室)主任",
+        "_id": 172
+    },
+    {
+        "label": "鄒永恩",
+        "filename": "耳鼻喉部喉科",
+        "article": "科(室)主任",
+        "_id": 173
+    },
+    {
+        "label": "施亮均",
+        "filename": "耳鼻喉部過敏暨免疫科",
+        "article": "科(室)主任",
+        "_id": 174
+    },
+    {
+        "label": "陳遠謙",
+        "filename": "牙醫部",
+        "article": "部主任",
+        "_id": 175
+    },
+    {
+        "label": "陳癸菁",
+        "filename": "牙醫部口腔顎面外科",
+        "article": "科(室)主任",
+        "_id": 176
+    },
+    {
+        "label": "孫國丁",
+        "filename": "牙醫部兒童牙科",
+        "article": "科(室)主任",
+        "_id": 177
+    },
+    {
+        "label": "吳宜亭",
+        "filename": "牙醫部牙周病科",
+        "article": "科(室)主任",
+        "_id": 178
+    },
+    {
+        "label": "林志杰",
+        "filename": "牙醫部家庭牙醫學科",
+        "article": "科(室)主任",
+        "_id": 179
+    },
+    {
+        "label": "余建宏",
+        "filename": "牙醫部齒顎矯正科",
+        "article": "科(室)主任",
+        "_id": 180
+    },
+    {
+        "label": "涂明君",
+        "filename": "牙醫部牙髓病科",
+        "article": "科(室)主任",
+        "_id": 181
+    },
+    {
+        "label": "傅立志",
+        "filename": "牙醫部復補綴牙科",
+        "article": "科(室)主任",
+        "_id": 182
+    },
+    {
+        "label": "吳伯元",
+        "filename": "皮膚科",
+        "article": "科(室)主任",
+        "_id": 183
+    },
+    {
+        "label": "陳維恭",
+        "filename": "急症暨外傷中心急診部",
+        "article": "部主任",
+        "_id": 184
+    },
+    {
+        "label": "林冠合",
+        "filename": "急症暨外傷中心急診部",
+        "article": "副主任",
+        "_id": 185
+    },
+    {
+        "label": "施宏謀",
+        "filename": "急症暨外傷中心急診部",
+        "article": "副主任",
+        "_id": 186
+    },
+    {
+        "label": "洪東榮",
+        "filename": "急症暨外傷中心毒物科",
+        "article": "科(室)主任",
+        "_id": 187
+    },
+    {
+        "label": "田彭太",
+        "filename": "手術室",
+        "article": "副主任",
+        "_id": 188
+    },
+    {
+        "label": "林文元",
+        "filename": "健康醫學中心",
+        "article": "副院長",
+        "_id": 189
+    },
+    {
+        "label": "林文元",
+        "filename": "社區暨家庭醫學部",
+        "article": "部主任",
+        "_id": 190
+    },
+    {
+        "label": "林文元",
+        "filename": "健康醫學中心健診醫學部",
+        "article": "部主任",
+        "_id": 191
+    },
+    {
+        "label": "林文元",
+        "filename": "社區暨家庭醫學部家庭醫學科",
+        "article": "科(室)主任",
+        "_id": 192
+    },
+    {
+        "label": "林文元",
+        "filename": "健康醫學中心健醫部尊榮照護科",
+        "article": "科(室)主任",
+        "_id": 193
+    },
+    {
+        "label": "徐華穗",
+        "filename": "社區暨家庭醫學部緩和醫療科",
+        "article": "科(室)主任",
+        "_id": 194
+    },
+    {
+        "label": "林志學",
+        "filename": "社區暨家庭醫學部高齡醫學科",
+        "article": "科(室)主任",
+        "_id": 195
+    },
+    {
+        "label": "陳志濱",
+        "filename": "健康醫學中心健診醫學部健康支援科",
+        "article": "科(室)主任",
+        "_id": 196
+    },
+    {
+        "label": "陳毓隆",
+        "filename": "健康醫學中心健診醫學部健檢檢查科",
+        "article": "科(室)主任",
+        "_id": 197
+    },
+    {
+        "label": "梁基安",
+        "filename": "放射腫瘤部",
+        "article": "部主任",
+        "_id": 198
+    },
+    {
+        "label": "陳尚文",
+        "filename": "放射腫瘤部光子放射治療科",
+        "article": "科(室)主任",
+        "_id": 199
+    },
+    {
+        "label": "簡君儒",
+        "filename": "放射腫瘤部粒子放射治療科",
+        "article": "科(室)主任",
+        "_id": 200
+    },
+    {
+        "label": "蕭安成",
+        "filename": "放射腫瘤部放射治療技術科",
+        "article": "技術主任",
+        "_id": 201
+    },
+    {
+        "label": "高嘉鴻",
+        "filename": "核子醫學科",
+        "article": "科(室)主任",
+        "_id": 202
+    },
+    {
+        "label": "高嘉鴻",
+        "filename": "人工智慧中心",
+        "article": "副主任",
+        "_id": 203
+    },
+    {
+        "label": "林千琳",
+        "filename": "復健部",
+        "article": "部主任",
+        "_id": 204
+    },
+    {
+        "label": "羅瑞寬",
+        "filename": "復健部一般復健科",
+        "article": "科(室)主任",
+        "_id": 205
+    },
+    {
+        "label": "孟乃欣",
+        "filename": "復健部心肺復健科",
+        "article": "科(室)主任",
+        "_id": 206
+    },
+    {
+        "label": "王約翰",
+        "filename": "病理部",
+        "article": "部主任",
+        "_id": 207
+    },
+    {
+        "label": "許惠婷",
+        "filename": "病理部法醫病理科",
+        "article": "科(室)主任",
+        "_id": 208
+    },
+    {
+        "label": "張菡",
+        "filename": "病理部外科病理科",
+        "article": "科(室)主任",
+        "_id": 209
+    },
+    {
+        "label": "江宜平",
+        "filename": "病理部細胞病理細胞遺傳科",
+        "article": "科(室)主任",
+        "_id": 210
+    },
+    {
+        "label": "王任卿",
+        "filename": "病理部分子病理科",
+        "article": "科(室)主任",
+        "_id": 211
+    },
+    {
+        "label": "陳坤堡",
+        "filename": "麻醉部",
+        "article": "部主任",
+        "_id": 212
+    },
+    {
+        "label": "周安國",
+        "filename": "麻醉部",
+        "article": "副主任",
+        "_id": 213
+    },
+    {
+        "label": "劉羽芳",
+        "filename": "麻醉部恢復室",
+        "article": "科(室)主任",
+        "_id": 214
+    },
+    {
+        "label": "潘健成",
+        "filename": "麻醉部移植麻醉科",
+        "article": "科(室)主任",
+        "_id": 215
+    },
+    {
+        "label": "劉時凱",
+        "filename": "麻醉部婦幼麻醉科",
+        "article": "科(室)主任",
+        "_id": 216
+    },
+    {
+        "label": "洪至仁",
+        "filename": "麻醉部疼痛科",
+        "article": "科(室)主任",
+        "_id": 217
+    },
+    {
+        "label": "張如心",
+        "filename": "麻醉部心臟麻醉科",
+        "article": "科(室)主任",
+        "_id": 218
+    },
+    {
+        "label": "陳永芳",
+        "filename": "醫學影像部",
+        "article": "部主任",
+        "_id": 219
+    },
+    {
+        "label": "陳永芳",
+        "filename": "醫學影像部介入性放射診療科",
+        "article": "科(室)主任",
+        "_id": 220
+    },
+    {
+        "label": "陳威良",
+        "filename": "醫學影像部",
+        "article": "副主任",
+        "_id": 221
+    },
+    {
+        "label": "陳威良",
+        "filename": "醫學影像部神經放射診療科",
+        "article": "科(室)主任",
+        "_id": 222
+    },
+    {
+        "label": "林維卿",
+        "filename": "醫學影像部",
+        "article": "副主任",
+        "_id": 223
+    },
+    {
+        "label": "林維卿",
+        "filename": "醫學影像部腹部影像診斷科",
+        "article": "科(室)主任",
+        "_id": 224
+    },
+    {
+        "label": "蔡伯邦",
+        "filename": "醫學影像部一般影像診療科",
+        "article": "科(室)主任",
+        "_id": 225
+    },
+    {
+        "label": "李英玄",
+        "filename": "醫學影像部兒童影像診斷科",
+        "article": "科(室)主任",
+        "_id": 226
+    },
+    {
+        "label": "王怡珺",
+        "filename": "醫學影像部健檢影像科 　",
+        "article": "科(室)主任",
+        "_id": 227
+    },
+    {
+        "label": "陳東明",
+        "filename": "醫學影像部放射技術科",
+        "article": "副技術主任",
+        "_id": 228
+    },
+    {
+        "label": "蕭瓊子",
+        "filename": "檢驗醫學部",
+        "article": "副主任",
+        "_id": 229
+    },
+    {
+        "label": "陳姿婷",
+        "filename": "檢驗醫學部輸血醫學科",
+        "article": "科(室)主任",
+        "_id": 230
+    },
+    {
+        "label": "林哲弘",
+        "filename": "檢驗醫學部輸血醫學科",
+        "article": "代理科(室)主任",
+        "_id": 231
+    },
+    {
+        "label": "盧秀琴",
+        "filename": "檢驗醫學部品保科",
+        "article": "技術主任",
+        "_id": 232
+    },
+    {
+        "label": "謝右文",
+        "filename": "藥劑部",
+        "article": "部主任",
+        "_id": 233
+    },
+    {
+        "label": "鄭奕帝",
+        "filename": "藥劑部藥劑科",
+        "article": "科(室)主任",
+        "_id": 234
+    },
+    {
+        "label": "陳育傑",
+        "filename": "藥劑部臨床藥學科",
+        "article": "科(室)主任",
+        "_id": 235
+    },
+    {
+        "label": "蔡邱轔",
+        "filename": "藥劑部中藥科",
+        "article": "副主任",
+        "_id": 236
+    },
+    {
+        "label": "徐逸民",
+        "filename": "護理部",
+        "article": "部主任",
+        "_id": 237
+    },
+    {
+        "label": "蔡岑瑋",
+        "filename": "護理部",
+        "article": "副主任",
+        "_id": 238
+    },
+    {
+        "label": "張惠美",
+        "filename": "護理部",
+        "article": "副主任",
+        "_id": 239
+    },
+    {
+        "label": "蔡教仁",
+        "filename": "社會工作室",
+        "article": "主任",
+        "_id": 240
+    },
+    {
+        "label": "劉子綺",
+        "filename": "經營服務中心",
+        "article": "主任",
+        "_id": 241
+    },
+    {
+        "label": "林佩燁",
+        "filename": "經營服務中心",
+        "article": "副主任",
+        "_id": 242
+    },
+    {
+        "label": "楊朝貴",
+        "filename": "經營服務中心",
+        "article": "行政督導",
+        "_id": 243
+    },
+    {
+        "label": "劉國銘",
+        "filename": "經營服務中心",
+        "article": "行政督導",
+        "_id": 244
+    },
+    {
+        "label": "周怡伶",
+        "filename": "經營服務中心",
+        "article": "行政督導",
+        "_id": 245
+    },
+    {
+        "label": "陳照惠",
+        "filename": "經營服務中心",
+        "article": "行政督導",
+        "_id": 246
+    },
+    {
+        "label": "張瑛",
+        "filename": "行政管理室",
+        "article": "主任",
+        "_id": 247
+    },
+    {
+        "label": "王毓駿",
+        "filename": "醫療品質部",
+        "article": "部主任",
+        "_id": 248
+    },
+    {
+        "label": "王毓駿",
+        "filename": "外科部急症外科",
+        "article": "科(室)主任",
+        "_id": 249
+    },
+    {
+        "label": "陳俊良",
+        "filename": "資訊室",
+        "article": "資訊副院長",
+        "_id": 250
+    },
+    {
+        "label": "陳俊良",
+        "filename": "資訊室",
+        "article": "主任",
+        "_id": 251
+    },
+    {
+        "label": "許凱平",
+        "filename": "資訊室",
+        "article": "副主任",
+        "_id": 252
+    },
+    {
+        "label": "陳信泰",
+        "filename": "醫工室",
+        "article": "主任",
+        "_id": 253
+    },
+    {
+        "label": "莊春珍",
+        "filename": "醫事室",
+        "article": "主任",
+        "_id": 254
+    },
+    {
+        "label": "粘瑩芝",
+        "filename": "公關室",
+        "article": "副主任",
+        "_id": 255
+    },
+    {
+        "label": "黃文明",
+        "filename": "工務室",
+        "article": "副主任",
+        "_id": 256
+    },
+    {
+        "label": "李學勛",
+        "filename": "總務室",
+        "article": "副主任",
+        "_id": 257
+    },
+    {
+        "label": "周致丞",
+        "filename": "教學部師資培育中心",
+        "article": "科(室)主任",
+        "_id": 258
+    },
+    {
+        "label": "吳柏樟",
+        "filename": "教學部技能及模擬訓練中心",
+        "article": "科(室)主任",
+        "_id": 259
+    },
+    {
+        "label": "林韋均",
+        "filename": "教學部超音波訓練中心",
+        "article": "科(室)主任",
+        "_id": 260
+    },
+    {
+        "label": "賴美月",
+        "filename": "採購中心",
+        "article": "副主任",
+        "_id": 261
+    },
+    {
+        "label": "廖世民",
+        "filename": "會計室",
+        "article": "主任",
+        "_id": 262
+    },
+    {
+        "label": "周維康",
+        "filename": "人事室",
+        "article": "行政督導",
+        "_id": 263
+    },
+    {
+        "label": "許祜川",
+        "filename": "資材室",
+        "article": "行政督導",
+        "_id": 264
+    },
+    {
+        "label": "吳怡禛",
+        "filename": "職業安全衛生室",
+        "article": "行政督導",
+        "_id": 265
+    },
+    {
+        "label": "廖品竑",
+        "filename": "新建工程室",
+        "article": "主任",
+        "_id": 266
+    },
+    {
+        "label": "賴孟婕",
+        "filename": "轉送中心",
+        "article": "組長",
+        "_id": 267
+    },
+    {
+        "label": "王志堯",
+        "filename": "兒童醫院",
+        "article": "兒童醫院院長",
+        "_id": 268
+    },
+    {
+        "label": "王志堯",
+        "filename": " 醫研部過敏免疫及微菌叢研究中心",
+        "article": "主任",
+        "_id": 269
+    },
+    {
+        "label": "宋文舉",
+        "filename": "兒童醫院",
+        "article": "副院長",
+        "_id": 270
+    },
+    {
+        "label": "李建興",
+        "filename": "兒童醫院",
+        "article": "副院長",
+        "_id": 271
+    },
+    {
+        "label": "李建興",
+        "filename": "兒童醫院外科系",
+        "article": "系主任",
+        "_id": 272
+    },
+    {
+        "label": "周宜卿",
+        "filename": "兒童醫院",
+        "article": "行政副院長",
+        "_id": 273
+    },
+    {
+        "label": "周宜卿",
+        "filename": "兒童醫院兒童神經科",
+        "article": "科(室)主任",
+        "_id": 274
+    },
+    {
+        "label": "陳傑賀",
+        "filename": "兒童醫院",
+        "article": "臨床訓練科主任",
+        "_id": 275
+    },
+    {
+        "label": "曾采藝",
+        "filename": "兒童醫院兒童外科",
+        "article": "科(室)主任",
+        "_id": 276
+    },
+    {
+        "label": "謝凱生",
+        "filename": "兒童醫院結構性心臟病及超音波中心",
+        "article": "副院長",
+        "_id": 277
+    },
+    {
+        "label": "謝凱生",
+        "filename": "兒童醫院醫學研究部",
+        "article": "部主任",
+        "_id": 278
+    },
+    {
+        "label": "林建亨",
+        "filename": "兒童醫院兒童胸腔暨重症科",
+        "article": "科(室)主任",
+        "_id": 279
+    },
+    {
+        "label": "徐宗正",
+        "filename": "兒童醫院兒童心臟科",
+        "article": "科(室)主任",
+        "_id": 280
+    },
+    {
+        "label": "徐宗正",
+        "filename": "兒童醫院兒童心導管室",
+        "article": "科(室)主任",
+        "_id": 281
+    },
+    {
+        "label": "謝宗學",
+        "filename": "兒童醫院兒童急診科",
+        "article": "科(室)主任",
+        "_id": 282
+    },
+    {
+        "label": "陳安琪",
+        "filename": "兒童醫院兒童肝膽腸胃科",
+        "article": "科(室)主任",
+        "_id": 283
+    },
+    {
+        "label": "張德高",
+        "filename": "兒童醫院兒童血液腫瘤科",
+        "article": "科(室)主任",
+        "_id": 284
+    },
+    {
+        "label": "魏長菁",
+        "filename": "兒童醫院兒童過敏免疫科",
+        "article": "科(室)主任",
+        "_id": 285
+    },
+    {
+        "label": "林曉娟",
+        "filename": "兒童醫院一般兒科",
+        "article": "科(室)主任",
+        "_id": 286
+    },
+    {
+        "label": "林曉娟",
+        "filename": "教學部實證醫學中心",
+        "article": "科(室)主任",
+        "_id": 287
+    },
+    {
+        "label": "王仲興",
+        "filename": "兒童醫院兒童遺傳內分泌科",
+        "article": "科(室)主任",
+        "_id": 288
+    },
+    {
+        "label": "林秀縵",
+        "filename": "兒童醫院兒少發展暨心智行為科",
+        "article": "科(室)主任",
+        "_id": 289
+    },
+    {
+        "label": "林鴻志",
+        "filename": "兒童醫院新生兒科",
+        "article": "科(室)主任",
+        "_id": 290
+    },
+    {
+        "label": "錢建文",
+        "filename": "兒童醫院兒童腎臟科",
+        "article": "科(室)主任",
+        "_id": 291
+    },
+    {
+        "label": "李建智",
+        "filename": "台中東區分院",
+        "article": "副院長",
+        "_id": 292
+    },
+    {
+        "label": "李建智",
+        "filename": "豐原分院",
+        "article": "副院長",
+        "_id": 293
+    },
+    {
+        "label": "李建智",
+        "filename": "惠盛醫院",
+        "article": "副院長",
+        "_id": 294
+    },
+    {
+        "label": "李建智",
+        "filename": "惠和醫院",
+        "article": "副院長",
+        "_id": 295
+    },
+    {
+        "label": "李建智",
+        "filename": "中英診所",
+        "article": "副院長",
+        "_id": 296
+    },
+    {
+        "label": "李建智",
+        "filename": "益家診所",
+        "article": "副院長",
+        "_id": 297
+    },
+    {
+        "label": "李建智",
+        "filename": "地利診所",
+        "article": "副院長",
+        "_id": 298
+    },
+    {
+        "label": "李建智",
+        "filename": "中科園區員工診所",
+        "article": "副院長",
+        "_id": 299
+    },
+    {
+        "label": "李建智",
+        "filename": "惠家診所",
+        "article": "副院長",
+        "_id": 300
+    },
+    {
+        "label": "李建智",
+        "filename": "外科部整形外科",
+        "article": "科(室)主任",
+        "_id": 301
+    },
+    {
+        "label": "周立偉",
+        "filename": "豐原分院醫務部",
+        "article": "科(室)主任",
+        "_id": 302
+    },
+    {
+        "label": "周立偉",
+        "filename": "中區體系分院復健科",
+        "article": "專科主任",
+        "_id": 303
+    },
+    {
+        "label": "吳恩瑄",
+        "filename": "台中東區分院醫療部",
+        "article": "科(室)主任",
+        "_id": 304
+    },
+    {
+        "label": "何致德",
+        "filename": "中科園區員工診所醫務科",
+        "article": "科(室)主任",
+        "_id": 305
+    },
+    {
+        "label": "何致德",
+        "filename": "社區暨家庭醫學部職業醫學科",
+        "article": "科(室)主任",
+        "_id": 306
+    },
+    {
+        "label": "鄭高奇",
+        "filename": "惠和醫院醫務科",
+        "article": "科(室)主任",
+        "_id": 307
+    },
+    {
+        "label": "楊美都",
+        "filename": "臺中監獄附設培德醫院",
+        "article": "副院長",
+        "_id": 308
+    },
+    {
+        "label": "林於錦",
+        "filename": "臺中監獄附設培德醫院醫務科",
+        "article": "科(室)主任",
+        "_id": 309
+    },
+    {
+        "label": "劉俊麟",
+        "filename": "臺北分院院長室",
+        "article": "副院長",
+        "_id": 310
+    },
+    {
+        "label": "王局文",
+        "filename": "臺北分院醫療部",
+        "article": "部主任",
+        "_id": 311
+    },
+    {
+        "label": "陳冠華",
+        "filename": "臺北分院醫療部耳鼻喉科",
+        "article": "科(室)主任",
+        "_id": 312
+    },
+    {
+        "label": "柯漢祥",
+        "filename": "臺北分院醫療部復健科",
+        "article": "科(室)主任",
+        "_id": 313
+    },
+    {
+        "label": "王玟玲",
+        "filename": "臺北分院中醫內婦兒科",
+        "article": "科(室)主任",
+        "_id": 314
+    },
+    {
+        "label": "胡奕晟",
+        "filename": "臺北分院中醫針灸科",
+        "article": "科(室)主任",
+        "_id": 315
+    },
+    {
+        "label": "王嵩竑",
+        "filename": "臺北分院行政部",
+        "article": "行政督導",
+        "_id": 316
+    }
+]
